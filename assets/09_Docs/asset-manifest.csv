@@ -1,0 +1,26 @@
+﻿id,path,title,kind,width,height,transparent,note,bytes,sha256
+character-lineup-reference.png,00_Concepts/character-lineup-reference.png,人物阵容参考,设计参考,1536,1024,False,保留之前的构图与画风讨论结果；整张设计参考，不是可直接拆开的分层界面。,2042312,bea08c87749d1abcf0e99fd645b53db29e87a105d8d46845e597b13611a9e0cb
+gameplay-reference.png,00_Concepts/gameplay-reference.png,营业操作界面参考,设计参考,1672,941,False,保留之前的构图与画风讨论结果；整张设计参考，不是可直接拆开的分层界面。,2232239,f979d5a6561f6fe588db49b2755321a0a7235119ef827a22e4190e92a5019b24
+home-screen-reference.png,00_Concepts/home-screen-reference.png,主菜单参考,设计参考,1672,941,False,保留之前的构图与画风讨论结果；整张设计参考，不是可直接拆开的分层界面。,2009724,6f2604d3841dd3cebe7bf3945df2a77f3c998c17d80cdca0318ee09815cf49cf
+style-reference.png,00_Concepts/style-reference.png,已选画风参考,设计参考,1536,1024,False,保留之前的构图与画风讨论结果；整张设计参考，不是可直接拆开的分层界面。,2209065,72deabc2964af0a84e3006e76fee22ad1023c7e99f9a94becb29a0f2276bdee7
+shop,01_Backgrounds/shop-interior-window-cutout.png,固定店内背景／窗洞层,独立单图,1672,941,True,店内固定层；窗洞与左侧门洞透明，窗外图放在其后。顾客、机器与 UI 另行叠加。,1741301,66eef8b330768ae4d8b541a26adfd4795d919c96466b855f9a9e99bd038a7631
+sky_dawn,01_Backgrounds/sky-01-dawn.png,窗外晨光,独立单图,1672,941,False,晨光关键帧，与另外三个时段保持同一街景视角。,1534060,41d4acb636967f99e843d292c63e46bbe440331276b36e4a75fdf4bee2fae213
+sky_noon,01_Backgrounds/sky-02-noon.png,窗外白天,独立单图,1672,941,False,白天关键帧；天空清亮，保留固定街景轮廓。,1639772,01a33a47abe3d53bec1d0f6231dc9a4819b4dcdcedc016ae6cc32346b60d84a9
+sky_sunset,01_Backgrounds/sky-03-sunset.png,窗外黄昏,独立单图,1672,941,False,黄昏关键帧；暖橙色天空渐变至夜色。,1596251,7b7eb0bf03d0c41bf17a63227e60755b0a60b799f5f6bec048a5e765fb2907a1
+sky_night,01_Backgrounds/sky-04-night.png,窗外夜晚,独立单图,1672,941,False,夜晚关键帧；深蓝天空与亮窗。,1530846,fd96ec7bf0cb579c9b7e7a50377007b618ae4de49cef04b0b1829d888f097cec
+cosplayer,02_Characters/customer-cosplayer.png,胖男 coser／独立角色,独立单图,1024,1536,True,身形宽厚的成年男性女仆装 cosplayer；靛蓝裙装、白围裙、粉色蝴蝶结。,1703057,3bd4b2ed55e288ce2d79ebf2bdeacb99c587a84adb3ae0095da4beb356c8e993
+faces,02_Characters/customer-expression-sheet.png,五位顾客／三种表情参考,素材板,1024,1536,True,5 行 × 3 列：cosplayer、上班族、小学生、男游客、女游客；每行等待／开心／不耐烦。表情参考须与全身图对齐后使用。,2338270,48e72be19357e24d4fe77efbd710f720ce0422269a544a728be0c1ef9bfc048f
+worker,02_Characters/customer-office-worker.png,中年社畜／独立角色,独立单图,1024,1536,True,中年上班族；稀疏发际、松领带与疲惫神态，人物轮廓区别明显。,1442097,571d45d59e1ea20985596faf8107554fb9406493a5a2eed6d87ebf1b2b2155e2
+pupil,02_Characters/customer-schoolchild.png,日本小学生／独立角色,独立单图,1024,1536,True,小学生；黄帽、红书包与较矮的身形。,1278643,9ab27942746c0d407108e39c917feee38778beb43aeece45329c3b83ed936302
+tourist_man,02_Characters/customer-tourist-man.png,中国游客男生／独立角色,独立单图,1024,1536,True,游客男角色；眼镜、青绿外套、相机与地图。,1696777,d38fbdc397c60733b72b69e6113956e75d2761c5b91f88b6ecbc1cd9d83d39fc
+tourist_woman,02_Characters/customer-tourist-woman.png,中国游客女生／独立角色,独立单图,1024,1536,True,游客女角色；遮阳帽、红外套与手机。,1452393,b9669a0a71fb04c6490ac7edc39d5cffe0a4a5d21e868d8b109f241fc4bcc8af
+inventory_protein,03_Ingredients/proteins-five-states-sheet.png,鱼类与配料／五档库存素材板,素材板,1672,941,True,4 行 × 5 列：三文鱼、金枪鱼、蟹棒、鱼子；每行从满盒到空盒共五档。,1739273,386afb5f8d94e3988180277ecc5b03f3069f9f5e6e3597642e4ad71e3d211c4b
+inventory_base,03_Ingredients/rice-nori-refill-sheet.png,米饭海苔五档／飞行补料素材板,素材板,1672,941,True,上两行分别为米饭、海苔的五档库存；第三行为补料飞行动效所用的黄瓜、鱼肉、米袋、海苔包、玉子。,1626985,1d08206b3a4f866a6849c8ca21982e2d5f7fe16b67cd6c8dc4e038a32a9dda45
+inventory_veg,03_Ingredients/vegetables-five-states-sheet.png,蔬菜与玉子／五档库存素材板,素材板,1774,887,True,4 行 × 5 列：黄瓜、牛油果、玉子、生菜；每行从满盒到空盒共五档。,1679405,66ce0d78f4b37c0a483a622245d9e407998375b898944346fd44f493a10c1f77
+food,04_Food/finished-sushi-onigiri-sheet.png,寿司与饭团／成品素材,素材板,1448,1086,True,3 行 × 4 列：各类寿司卷、握寿司、军舰与两种饭团；每格是一份成品组合。,1516560,3350cf33e2908c1476678b8642df70f10fd9a17e8100c4937094c8c7cdb6b0e9
+prep,04_Food/sushi-preparation-stages-sheet.png,寿司制作／12个步骤素材,素材板,1536,1024,True,3 行 × 4 列：竹帘→海苔→三档铺饭→三档加料→卷起→闭合→整卷→切好。属于操作关键状态参考，不是逐帧动画。,2365126,01669183a70724ce4554825450d1676db12b77ebf24a2f85b9b0e18a8f333117
+automation,05_Equipment/automation-upgrades-sheet.png,自动化设备／升级外观,素材板,1536,1024,True,2 行 × 3 列：海苔送料、铺饭、卷寿司、切卷、快煮饭与自动补料机的外观方案。,2280708,3bce1099d1e6d0d388fdee911368be0f67fb035ff393f3f9bba617b3d4c7c905
+equipment,05_Equipment/basic-equipment-sheet.png,基础设备与饮料／素材板,素材板,1536,1024,True,基础／升级电饭煲、茶机、啤酒龙头、清酒瓶架、空托盘、五格饭团架及饮料状态。部分格含成对物件，需单独拆分。,1811972,36991efd4d16ec3e5154685eddb9980706d1bd206a53e527874ea7c00d162a69
+truck,06_Delivery/reversing-truck-states-sheet.png,倒车补料卡车／四状态,素材板,1536,1024,True,2 行 × 2 列：后门关闭／开门满货／开门半空／开门空厢。均为车尾朝向店门，位移和开门过渡需在游戏中制作。,1495231,f176fdea94e521a280dc84b53a1fd104753875c53398c98c032259e84e7bfe88
+decor,07_Decor/decoration-options-sheet.png,店铺装修／12件装饰,素材板,1536,1024,True,灯具、门帘、挂画、绿植与展示柜共 12 个方案；基础与较高档材质形成视觉差异。,2046674,b2ea087d72e8a03acc5157d49bf59c08f701d85023e9a470392de82ccb1a96bb
+ui,08_UI/game-interface-elements-sheet.png,界面基础元素／素材板,素材板,1536,1024,True,订单气泡、托盘、金币、暂停、设置、按钮底板、表情、手指、升级与菜单卡。部分元素尺寸不等，建议逐个切图。,1562294,ff6a3b89a774e7f654dc54add390f70301a1e281533c0f346e4cb480139a48de

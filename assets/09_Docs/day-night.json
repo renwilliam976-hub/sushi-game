@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "clock": "营业时钟，与现实时间无关",
+  "start": "07:00",
+  "end": "22:00",
+  "preview_cycle_seconds": 40,
+  "pause_freezes_time": true,
+  "ease": "smoothstep: u*u*(3-2*u)",
+  "layering": "当前关键帧完全显示，下一关键帧透明度由 0 增至 1；内景固定在上层。",
+  "interior": "01_Backgrounds/shop-interior-window-cutout.png",
+  "keyframes": [
+    {
+      "progress": 0,
+      "name": "晨光",
+      "path": "01_Backgrounds/sky-01-dawn.png"
+    },
+    {
+      "progress": 0.35,
+      "name": "白天",
+      "path": "01_Backgrounds/sky-02-noon.png"
+    },
+    {
+      "progress": 0.7,
+      "name": "黄昏",
+      "path": "01_Backgrounds/sky-03-sunset.png"
+    },
+    {
+      "progress": 1,
+      "name": "夜晚",
+      "path": "01_Backgrounds/sky-04-night.png"
+    }
+  ],
+  "preview_backdrop_rects_normalized": {
+    "windows": {
+      "x": 0.3325,
+      "y": 0.077,
+      "width": 0.342,
+      "height": 0.197
+    },
+    "door": {
+      "x": 0.033,
+      "y": 0.077,
+      "width": 0.117,
+      "height": 0.363
+    }
+  },
+  "rect_note": "这些坐标用于本包预览页的背景摆放；实际可见边界由店内 PNG 的透明洞口决定，并非引擎碰撞框。",
+  "next_layer_options": "后续可叠加玻璃反光、夜间灯光与少量云层；本包尚未单独绘制这些动画层。"
+}
